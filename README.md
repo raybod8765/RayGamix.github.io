@@ -1,2 +1,3 @@
 # RayGamix
 Welcome to RayGamix! A new gaming universe full of fun minigames, new friends, and more! Check it out, you don't even need an account! Play with friends, customize your avatar, make games, and more!
+This repository is currently **shut down**, please visit https://github.com/raybod8765/RayGamix.github.io instead.
